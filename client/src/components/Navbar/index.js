@@ -12,6 +12,9 @@ const Navbar = () => {
           <NavLink to="/contact" activeStyle>
             Contact Us
           </NavLink>
+          <NavLink to="/todo" activeStyle>
+            Todo Stuff
+          </NavLink>
         </NavMenu>
       </Nav>
     </>
